@@ -46,3 +46,12 @@ There are three ways to run the test class:
 * Click the diamond button in the gutter.
 
 ![](https://github.com/virtualforce/iOS-Unit-Testing-and-UI-Testing/blob/master/images/3.png?raw=true)
+
+When all the tests succeed, the diamonds will turn green and show check marks. Click the gray diamond at the end of **testPerformanceExample()** to open the Performance Result:
+
+![](https://github.com/virtualforce/iOS-Unit-Testing-and-UI-Testing/blob/master/images/4.png?raw=true)
+
+You don’t need **testPerformanceExample()**, so delete it.
+
+
+### Using XCTAssert to Test Models
