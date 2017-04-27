@@ -29,4 +29,10 @@ Open the BullsEye project and hit Command-5 to open its test navigator.
 
 Click the + button in the lower-left corner, then select New Unit Test Target… from the menu:
 
-![](../images/1.png)
+![](https://github.com/virtualforce/iOS-Unit-Testing-and-UI-Testing/blob/master/images/1.png?raw=true)
+
+Accept the default name **BullsEyeTests**. When the test bundle appears in the test navigator, click it to open it in the editor.
+
+![](https://github.com/virtualforce/iOS-Unit-Testing-and-UI-Testing/blob/master/images/2.png?raw=true)
+
+The template imports **XCTest** and defines a BullsEyeTests subclass of **XCTestCase**, with **setup(), tearDown()** and example test methods.
