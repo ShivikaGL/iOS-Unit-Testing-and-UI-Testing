@@ -36,3 +36,12 @@ Accept the default name **BullsEyeTests**. When the test bundle appears in the t
 ![](https://github.com/virtualforce/iOS-Unit-Testing-and-UI-Testing/blob/master/images/2.png?raw=true)
 
 The template imports **XCTest** and defines a BullsEyeTests subclass of **XCTestCase**, with **setup(), tearDown()** and example test methods.
+
+There are three ways to run the test class:
+
+* **Product\Test** or **Command-U**. This actually runs all test classes.
+
+* Click the arrow button in the test navigator.
+
+* Click the diamond button in the gutter.
+
