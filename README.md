@@ -45,3 +45,4 @@ There are three ways to run the test class:
 
 * Click the diamond button in the gutter.
 
+![](https://github.com/virtualforce/iOS-Unit-Testing-and-UI-Testing/blob/master/images/3.png?raw=true)
